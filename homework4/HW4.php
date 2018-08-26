@@ -10,8 +10,7 @@ $data = json_decode($json, true);
     <style>
         table, td {
             padding: 5px 10px;
-            border: 1px solid #000000;
-            border-color: #008a77;
+            border: 1px solid #008a77;
         }
 		.header {
 			color: blue;
