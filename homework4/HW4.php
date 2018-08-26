@@ -12,9 +12,9 @@ $data = json_decode($json, true);
             padding: 5px 10px;
             border: 1px solid #008a77;
         }
-		.header {
-			color: blue;
-		}
+	.header {
+	    color: blue;
+	}
     </style>
 </head>
 
