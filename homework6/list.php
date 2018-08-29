@@ -17,9 +17,9 @@ $fileList = glob('uploads/*.json');
             foreach ($decodeFile as $test) 
             {
                 $question = $test['question'];
-                echo "<ul class=\"nav\">";
-                echo "<li class=\"nav-item\">";
-                echo "<a class=\"nav-link\" href=\"test.php?test=$key\">$question</a>";
+                echo "<ul">";
+                echo "<li">";
+                echo "<a href=\"test.php?test=$key\">$question</a>";
                 echo "</li>";
                 echo "</ul>";
             }
@@ -30,7 +30,7 @@ $fileList = glob('uploads/*.json');
             <a href="admin.php">Загрузить тест</a>
         </li>
         <li>
-            <a href="list.php">Список тестов</a>
+            <a href="list.php">Выбрать тест</a>
         </li>
     </ul>
 </div>
