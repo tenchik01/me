@@ -1,0 +1,65 @@
+[
+    {
+        "question": "Сколько будет 2+2/2 ?",
+        "answers": [
+            {
+                "answer": "3",
+                "result": true
+            },
+            {
+                "answer": "4",
+                "result": false
+            },
+            {
+                "answer": "2",
+                "result": false
+            },
+            {
+                "answer": "5",
+                "result": false
+            }
+        ]
+    },
+    {
+        "question": "Сколько фигур на шахматной доске",
+        "answers": [
+            {
+                "answer": "16",
+                "result": false
+            },
+            {
+                "answer": "24",
+                "result": false
+            },
+            {
+                "answer": "32",
+                "result": true
+            },
+            {
+                "answer": "36",
+                "result": false
+            }
+        ]
+    },
+    {
+        "question": "Сколько мегабайт в 1 гигабайте",
+        "answers": [
+            {
+                "answer": "1014",
+                "result": false
+            },
+            {
+                "answer": "1044",
+                "result": false
+            },
+            {
+                "answer": "1024",
+                "result": true
+            },
+            {
+                "answer": "1034",
+                "result": false
+            }
+        ]
+    }
+]
