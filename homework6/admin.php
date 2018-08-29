@@ -38,7 +38,7 @@ if($_SERVER['REQUEST_METHOD']=='POST' && isset($_FILES['testfile'])) {
                 <a href="admin.php">Загрузить тест</a>
             </li>
             <li>
-                <a href="list.php">Список тестов</a>
+                <a href="list.php">Выбрать тест</a>
             </li>
         </ul>
     </div>
